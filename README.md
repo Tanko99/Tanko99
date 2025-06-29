@@ -1,10 +1,61 @@
-- 👋 Hi, I’m @Tanko99
-- 👀 I’m interested in tech, culture, music...
-- 🌱 I’m currently learning  software engineering at ALX Africa...
-- 💞️ I’m looking to collaborate on projects that will help enhance my skills and gain more experience that i can be able to design scalable solutions for my clients
-- 📫 How to reacch me....You can reach on linkedin(Tanko Fabrice), facebook(Fabrice Ngala) and whatsapp(+237 650b 439 454)
-- 😄 Pronouns: ...I pronise to stay motivated, curios, consitent, maintain grit and growth mindset and then do hard things every step of the way
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Tanko Fabrice!
+
+🎯 Front-End Web Developer | 🎨 Graphic Design Enthusiast | 🌍 Aspiring Tech Founder | 📚 Academic-to-be
+
+---
+
+## 🚀 About Me
+
+I'm a passionate visual and kinaesthetic learner currently on a journey to become a world-class front-end developer through the **ALX SE Program**. I enjoy turning ideas into reality with code and design.
+
+---
+
+## 💻 Tech Stack
+
+- 🔹 **Languages:** HTML, CSS, JavaScript
+- 🔹 **Frameworks:** React (learning), Next.js (learning)
+- 🔹 **Styling:** Tailwind CSS, CSS Grid, Flexbox
+- 🔹 **Tools:** Git, GitHub, VS Code, Google Workspace
+- 🔹 **Currently Exploring:** APIs, DOM Manipulation, CLI, React Hooks
+
+---
+
+## 🎯 Goals
+
+- 🌱 Master JavaScript & React
+- 🧑🏽‍🎨 Design my personal portfolio & launch a tech blog
+- 🧠 Build and publish open-source projects
+- 💼 Become a founder of a tech startup
+- 📖 Become a university professor in software engineering
+
+---
+
+## 🌟 What Makes Me Unique?
+
+As a visual/kinaesthetic learner, I grasp concepts best through:
+- Diagrams
+- Hands-on coding
+- Interactive learning tools like **ChatGPT**
+  
+---
+
+## 📌 Fun Facts
+
+- 🎧 I love coding to lo-fi beats.
+- ✈️ Dream of building solutions for African tech challenges.
+- 🧑🏽‍🏫 I enjoy explaining tech in simple terms to others.
+
+---
+
+## 📫 How to Reach Me
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/tanko-fabrice
+- ✉️ tankofabrice4@gmail.com
+
+---
+
+> “Code is the language of ideas, and design is the voice.” – Tanko
+
 
 <!---
 Tanko99/Tanko99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

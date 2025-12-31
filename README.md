@@ -49,17 +49,10 @@ I am a passionate **Frontend Engineer** focused on building high-performance, ac
 ---
 
 ## 📬 Connect With Me
-<p align="left">
-<a href="https://twitter.com/tanko_fabrice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-lite.svg" alt="tanko_fabrice" height="30" width="40" /></a>
-<a href="mailto:tankofabrice4@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="tankofabrice4@gmail.com" height="30" width="30" /></a>
-<a href="https://wa.me/237650439454" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" height="30" width="30" /></a>
-</p>
+** Email: tankofabrice4@gmail.com **
+**contact number: +237 650439454 **
 
 ---
 
 ### ⚡ Fun Fact
 *I spend 10% of my time coding and 90% of my time wondering why a `div` won't center, only to realize I forgot a semicolon.*
-Key features added for you:
-Direct WhatsApp Link: I linked your phone number to a "Click to Chat" WhatsApp link so recruiters can message you instantly.
-
-Live Stats: The charts will automatically pull your real data from your Tanko99 a

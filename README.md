@@ -49,8 +49,8 @@ I am a passionate **Frontend Engineer** focused on building high-performance, ac
 ---
 
 ## 📬 Connect With Me
-** Email: tankofabrice4@gmail.com **
-**contact number: +237 650439454 **
+* Email: tankofabrice4@gmail.com *
+* Contact number: +237 650439454 *
 
 ---
 
